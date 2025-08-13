@@ -96,7 +96,7 @@ html,body {
     margin-left: 300px;
 }
 section#inicio {
-    background-image: url("static/img/auto2.jpeg");
+    background-image: url("auto2.jpeg");
     background-repeat: no-repeat;
     background-size: cover;
     background-attachment: fixed;
@@ -316,3 +316,4 @@ section#inicio div#arraste {
     
 
 }
+
