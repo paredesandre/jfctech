@@ -10,3 +10,4 @@ git remote add origin https://github.com/paredesandre/jfctech.git
 git remoto adicionar origem https://github.com/paredesandre/jfctech.git
  git branch -M principal 
 git push -u origem principal -->
+https://paredesandre.github.io/jfctech/
