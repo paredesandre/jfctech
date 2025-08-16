@@ -134,7 +134,7 @@ section#inicio div#arraste {
     position: fixed;
     color: #fff;
     background-color: #252c90;
-    left: 1rem;
+    right:1.5rem;
     top: 1.5rem;
     font-size: 1.5rem;
     border-radius: 4rem;
@@ -314,6 +314,4 @@ section#inicio div#arraste {
 
     }
     
-
 }
-
